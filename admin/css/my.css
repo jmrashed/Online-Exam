@@ -1,0 +1,127 @@
+h1,h2,h3,h4,h5,h6{
+color: #f0ad4e;
+font-family: Lobster Two;
+}
+
+.myselect{
+
+
+}
+
+select.myselect, option { width: 100%; 
+margin-left: 15px;
+}
+
+.myrow{
+margin:auto;
+border: 1px dotted black;
+ 
+text-align: center;
+border-radius: 20px;
+background-color: #2E9AFE;
+font-weight: bold;
+}
+
+
+
+ul.mymenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: #2E9AFE;
+        text-decoration: none;
+    
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #f0ad4e;
+    padding: 8px 0 8px 16px;
+
+    border-radius: 5px;
+    border-collapse: collapse;
+	text-decoration: none;
+    border:0.5px dotted white;
+}
+
+li a.active {
+    background-color: #045FB4;
+    color: white;
+        text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #81BEF7;
+    color: white;
+        text-decoration: none;
+}
+
+
+.adminpanel{
+float: left;
+}
+
+div.border{
+border: 1px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
